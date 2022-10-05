@@ -16,6 +16,7 @@ function Header() {
   return (
     <div className="container">
       <h1>The number of tasks = {taskObj.tasks.length}</h1>
+      <h2>My name is Isibor Ernest</h2>
       <div className="row">
         <div className="col-md-4">
           <div class="mb-3">
